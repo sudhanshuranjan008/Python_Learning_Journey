@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python Learning Journey
 
 This repository is a reflection of my ongoing learning process in Python. I am working through problems on a weekly basis, covering different levels of difficulty. The problems are categorized into three main areas: **Basics**, **Intermediate**, and **Advanced**.
@@ -44,3 +45,7 @@ Each week, I tackle a new set of problems within these categories:
 ### **Week 3 - Advanced**
 - API Interaction with Python (requests, JSON)
 - Data Structures: Stacks, Queues, Trees
+=======
+# Python_Learning_Journey
+This repo showcases my journey of learning Python from scratch. Anyone who is interested can follow it. I will updating my progress as I go!
+>>>>>>> 10a7e5f508788a32c101bea9ef914b7d7c02fe93
