@@ -1,0 +1,4 @@
+File handling is an essential skill in Python and super useful for working with data.
+File handling is an important part of any web application.
+Python has several functions for creating, reading, updating, and deleting files.
+I have added this line using file handling in python.
