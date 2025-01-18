@@ -1,0 +1,12 @@
+# Ignore db_connection.py inside the scripts directory
+/scripts/db_connection.py
+
+# Ignore Python bytecode files
+*.pyc
+*.pyo
+
+# Ignore environment files
+.env
+
+# Ignore virtual environments
+venv/
